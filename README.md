@@ -1,1 +1,2 @@
 # NarrativeOntology
+Progetto universitario di Semantic Web consistente nella creazione di un'ontologia in formato OWL realizzata utilizzando Protege. Il progetto ha richiesto anche la soluzione di alcune queries in SPARQL utilizzando Blazegraph, oltre ad alcune domande teoriche per verificare sia che le Global Restrictions fosse rispettate nella mia ontologia sia la creazione di due asserzioni che la rendessero inconsistente.
